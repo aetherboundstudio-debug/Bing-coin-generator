@@ -1,0 +1,1 @@
+# Bing-coin-generator
